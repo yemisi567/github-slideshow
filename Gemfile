@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "_posts/0000-01-02-yemisi567.md"
 
 gem 'github-pages', '>= 198'
 gem 'html-proofer', '>= 3.11.1'
